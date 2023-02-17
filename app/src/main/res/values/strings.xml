@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TheNavigration</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_fragmentone">This is FragmentOne</string>
+    <string name="next_fragment_two">Next fragment Two</string>
+    <string name="next_fragment_three">Next fragment Three</string>
+    <string name="this_is_fragment_two">This is Fragment Two</string>
+    <string name="bottomsheet_example">BottomSheet Example</string>
+    <string name="title_activity_bottom">ActivityBottom</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="this_is_dialog_for_close">This is Dialog for close</string>
+    <string name="click_for_disble">Click for Disble</string>
+    <string name="click_for_sheet">Click for Sheet</string>
+    <string name="this_is_fragment_three">This is Fragment Three</string>
+    <string name="enter_data">Enter Data</string>
+</resources>
